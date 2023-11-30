@@ -1,3 +1,6 @@
+Name: Safayat Bar Chowdhury 
+Id: 222-115-239 
+
 Sudoku Solver:
 This code solves Sudoku puzzles using the backtracking algorithm. The code first checks if a given number can be placed in a specific cell without violating the Sudoku rules. If it can, the number is placed in the cell, and the recursive function is called to solve the rest of the puzzle. If no number can be placed in the cell, the function backtracks and tries another number.
 
